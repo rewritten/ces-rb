@@ -1,0 +1,5 @@
+== Welcome to CES-rb
+
+CES-rb is a rails port of what is currently developed in IntegralCES. It's
+just a proof-of-concept.
+
